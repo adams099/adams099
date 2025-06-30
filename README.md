@@ -3,12 +3,11 @@
 
 
 <!-- Short Bio -->
-<p align="left">
 - 🌱 I’m currently learning full-stack development and artificial intelligence<br>
 - 💼 Working at Gajah Tunggal<br>
 - 🧠 Passionate about web and mobile development
 - 🎮 I love games, community building, and tinkering with tech
-</p>
+
 
 <!-- Tech Stack -->
 ##### 🚀 Tech Stack & Tools
