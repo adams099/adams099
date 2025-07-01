@@ -34,3 +34,4 @@
 </picture>
 
 <img src="https://raw.githubusercontent.com/adams099/adams099/output/snake.svg" alt="Snake animation" />
+
